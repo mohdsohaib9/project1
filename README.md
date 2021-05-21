@@ -57,3 +57,9 @@ body {
    
 </body>
 </html> 
+Start here
+Whether you're a small business or a multi-national, this is the place to start rolling out Teams. These articles will guide you through a small-scale Teams rollout, which may be all you need if you're a small business or if you're rolling out Teams quickly as your first Microsoft 365 workload to support remote workers.
+
+If you're a larger organization, use these articles to pilot Teams with a small group of early adopters so you can learn about Teams and start planning your org-wide deployment. Later, use the guidance on the Microsoft Teams Adoption site to help you roll out Teams across your organization.
+
+We recommend rolling out Teams in stages, workload by workload, as your organization is ready. You don't have to wait until you've completed one step before you move to the next. Some organizations may want to roll out all Teams features at once, while others may prefer a phased approach. Here are the Teams workloads, in the order we recommend rolling them out:
